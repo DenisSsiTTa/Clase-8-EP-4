@@ -1,0 +1,85 @@
+body {
+	margin: 0px;
+	font-family: helvetica, times, arial;
+}
+
+.borra{
+	clear: both;
+}
+
+.fondo1 {
+	background-image: url("../images/bg.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 450px;
+	width: auto;
+
+}
+
+nav {
+    margin-right: 100px;
+    float: right;
+    color: grey; 
+    font-size: small;
+}
+
+li {
+    display: inline-block;
+}
+
+.logo {
+	margin-top: 30px;
+	margin-left: 100px;
+	width: 12%;
+}
+
+.titulo2 {
+	margin-top: 80px;
+	text-align: center;
+	font-size: x-large;
+	color: white; 
+}
+
+.button {
+	width: auto;
+    text-align: center;
+	color: white;
+	border: none;
+  	border-radius: 5px;
+  	padding: 10px 20px;
+  	margin: 5px;
+
+}
+
+.bAzul {
+    background-color: #3379b7; 
+    display: inline-block;
+
+}
+
+.bVerde {
+    background-color: #5bb85b; 
+    display: inline-block;
+}
+
+.titulo3 {
+	margin-top: 80px;
+	text-align: center;
+	font-size: medium;
+	font: normal bold;
+}
+
+.parrafo {
+	margin-top: 40px;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+	font-size: small;
+}
+
+.gente {
+	width: 30%;
+}
+
+
